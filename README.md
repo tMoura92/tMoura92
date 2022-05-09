@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tMoura92
-- 👀 I’m interested in learn the basics to become a web developer
+- 👀 I’m interested in learn the basics to become a web developer, more specifically a Front-end developer.
 - 🌱 I’m currently learning the basics, lol
 - 💞️ I’m looking to collaborate on helping others to get motivated :)
 - 📫 How to reach me: thiagomr@yahoo.com
